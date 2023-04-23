@@ -1,7 +1,7 @@
 ![Header](https://raw.githubusercontent.com/MarcoLProto/MarcoLProto/main/header.gif)
 
 # Hi! I'm Marko Lukic
-##I'm a front-end developer with a strong focus on UI/UX architecture. I have a passion for creating beautiful and intuitive user experiences that delight users and solve complex problems.
+I'm a Senior Front-Rnd Developer with a strong focus on UI/UX Architecture. I have a passion for creating beautiful and intuitive user experiences that delight users and solve complex problems.
 
 # 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/SutekiDaNe#0001) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marko-l-lukic) 

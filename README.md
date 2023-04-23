@@ -2,6 +2,11 @@
 <h3>I'm a front-end developer with a strong focus on UI/UX architecture. I have a passion for creating beautiful and intuitive user experiences that delight users and solve complex problems.</h3>
 <hr>
 ## 🌐 Socials:
+
+<a href="https://discord.gg/SutekiDaNe#0001" target="_blank" alt="discord link">
+  <img href="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" width="20">
+</a>
+
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/SutekiDaNe#0001) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marko-l-lukic) 
 
 # 💻 Tech Stack:

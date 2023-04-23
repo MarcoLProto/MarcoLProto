@@ -1,4 +1,4 @@
-![Header](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmM0MmQ2N2MxM2EyMjY1YjhlZGE5YzI3Y2U1YjlkZGVmNTJjYTY5NiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/tBUhlbt5p6TJ9xXeAS/giphy.gif)
+![Header](https://raw.githubusercontent.com/MarcoLProto/MarcoLProto/main/header.gif)
 
 # Hi! I'm Marko Lukic
 ##I'm a front-end developer with a strong focus on UI/UX architecture. I have a passion for creating beautiful and intuitive user experiences that delight users and solve complex problems.
